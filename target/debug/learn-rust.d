@@ -1,1 +1,1 @@
-/home/bogdan/Desktop/learn-rust/target/debug/learn-rust: /home/bogdan/Desktop/learn-rust/src/main.rs
+/home/bgd/Desktop/learn-rust/target/debug/learn-rust: /home/bgd/Desktop/learn-rust/src/automated_bin_src.rs /home/bgd/Desktop/learn-rust/src/guess_the_number.rs /home/bgd/Desktop/learn-rust/src/main.rs
